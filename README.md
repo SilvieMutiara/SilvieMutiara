@@ -32,12 +32,13 @@
   </a> 
 </p>
 
-
-<p align="center"><b>Thank You</b></p>
+<p align="center"><b>Thank you for visiting! </b></p>
 
 <p align="center"> 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBvOGJuMWJqM3IzYjdqMGRhZW4zYzNtMGloYTNoZzIzN2RmZ3A5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/heIX5HfWgEYlW/giphy.gif" width="150" height="120" /> 
 </p>
+
+<p align="center"><b>Happy coding!</b></p>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=SilvieMutiara" alt="Profile Views" /> 
